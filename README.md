@@ -12,6 +12,8 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=300&section=header&text=Welcome&fontSize=90&animation=fadeIn&fontAlignY=38&descAlignY=51&descAlign=62"/>
+
 <h1 align="center"> ByeongCheol Han</h1>
 <h3 align="center">🌱 Hi there 🌱</h3>
 <h3 align="center"> 💻 Tech Stack 💻</h3>
